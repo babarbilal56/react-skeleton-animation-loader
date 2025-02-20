@@ -1,4 +1,6 @@
-# react-skeleton-animation-loader
+<img src="react-skeleton-exam.png" alt="example">
+
+# React Skeleton Animation Loader
 
 A lightweight and customizable React skeleton loader component with smooth animation effects. Ideal for improving user experience during content loading states.
 
@@ -55,8 +57,6 @@ export default ExampleComponent;
 | `count`          | `number`             | `1`      | Number of skeleton elements (useful for `type='custom'`).      |
 
 ## Examples
-
-<img src="react-skeleton-exam.png" alt="example">
 
 
 ### Image Skeleton Loader
