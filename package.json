@@ -1,0 +1,49 @@
+{
+  "name": "react-skeleton-animation-loader",
+  "version": "1.0.0",
+  "main": "dist/SkeletonLoader.js",
+  "scripts": {
+    "build": "webpack --mode production",
+    "start": "webpack-dev-server --mode development",
+    "test": "jest"
+  },
+  "keywords": [
+    "react",
+    "skeleton",
+    "loader",
+    "react loader",
+    "react loading component",
+    "react skeleton animation",
+    "react shimmer loader",
+    "react skeleton UI",
+    "react shimmer loader",
+    "loader",
+    "activity indicator"
+
+  ],
+  "author": "Babar Bilal",
+  "license": "MIT",
+  "description": "A simple, customizable, and lightweight skeleton loader component for React. Perfect for displaying loading placeholders while content is being fetched or processed.",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "devDependencies": {
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.4.1",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^5.2.7",
+    "style-loader": "^2.0.0",
+    "webpack": "^5.98.0",
+    "webpack-cli": "^4.10.0",
+    "webpack-dev-server": "^4.15.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babarbilal56/react-skeleton-animation-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/babarbilal56/react-skeleton-animation-loader/issues"
+  },
+  "homepage": "https://github.com/babarbilal56/react-skeleton-animation-loader#readme"
+}
